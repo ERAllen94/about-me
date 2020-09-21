@@ -10,7 +10,7 @@ body {
 
 
 header {
-    background-image: url("./images/Header.jpg");
+    background-image: url("./Images/Header.jpg");
     height: 65px;
 }
 
@@ -111,33 +111,33 @@ header ul li {
 .box.one {
     grid-column: span 3;
     grid-row: span 4;
-    background-image: url('./images/budget-master.png')
+    background-image: url('./Images/budget-master.png')
     
 }
 
 .box.two {
     grid-column: span 2;
     grid-row: span 2;
-    background-image: url('./images/Run_buddy_pic.jpg');
+    background-image: url('./Images/Run_buddy_pic.jpg');
 }
 
 .box.three {
     grid-column: span 2;
     grid-row:  span 2;
-    background-image: url('./images/box 2.jpg');
+    background-image: url('./Images/box 2.jpg');
 }
 
 .box.four {
     grid-column: span 2;
     grid-row: span 2;
-    background-image:url('./images/box 2.jpg');
+    background-image:url('./Images/box 2.jpg');
     
 }
 
 .box.five {
     grid-column: span 2;
     grid-row: span 2;
-    background-image:url('./images/box 2.jpg'); 
+    background-image:url('./Images/box 2.jpg'); 
 }
 
 /* #contact {
