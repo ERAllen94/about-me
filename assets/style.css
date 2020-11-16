@@ -118,13 +118,13 @@ header ul li {
 .box.two {
     grid-column: span 2;
     grid-row: span 2;
-    background-image: url('./Images/Run_buddy_pic.jpg');
+    background-image: url('./Images/U_wanna_eat.PNG');
 }
 
 .box.three {
     grid-column: span 2;
     grid-row:  span 2;
-    background-image: url('./Images/box 2.jpg');
+    background-image: url('./Images/Run_buddy_pic.jpg');
 }
 
 .box.four {
